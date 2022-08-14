@@ -19,7 +19,7 @@ if [ $? -eq 0 ]; then
 dir_array_parent=$(echo $(ls -d */) | sed "s/\///g")
 for dir_parent in $dir_array_parent
 do
-    if [ $dir_parent == "common" ] || [ $dir_parent == "images" ]; then
+    if [[ $dir_parent == "common" ]] || [[ $dir_parent == "images" ]]; then
         continue
     fi
     cd $dir_parent
@@ -38,7 +38,7 @@ do
     dir_array_child=$(echo $(ls -d */) 2>/dev/null | sed "s/\///g")
     for dir_child in $dir_array_child
     do
-        if [ $dir_child == "common" ] || [ $dir_child == "images" ]; then
+        if [[ $dir_child == "common" ]] || [[ $dir_child == "images" ]]; then
             continue
         fi
         cd $dir_child
@@ -57,7 +57,7 @@ do
         dir_array_grand_child=$(echo $(ls -d */) | sed "s/\///g")
         for dir_grand_child in $dir_array_grand_child
         do
-            if [ $dir_grand_child == "common" ] || [ $dir_grand_child == "images" ]; then
+            if [[ $dir_grand_child == "common" ]] || [[ $dir_grand_child == "images" ]]; then
                 continue
             fi
             cd $dir_grand_child
