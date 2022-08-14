@@ -1,0 +1,46 @@
+.row{
+    margin-bottom: 100px;
+}
+.thumbnail{
+    width:100%;
+}
+.tagline {
+    text-align: center;
+}
+.tagline > img {
+    width: 80%;
+}
+.description > p{
+    font-size: 0.8em;
+}
+.lp{
+    text-align: center;
+}
+.lp > img{
+    width:100%;
+}
+.lineup > img {
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+}
+.title {
+    margin-bottom: 50px;
+}
+.title > p {
+    text-align: center;
+}
+.package {
+    text-align: center;
+}
+.package > img {
+    width: 120%;
+}
+@media screen and (max-width: 480px){
+    .description{
+        margin-top:20px;
+    }
+    .description > p{
+        font-size: 1.0em;
+    }
+}

@@ -1,0 +1,25 @@
+.row{
+    margin-bottom: 100px;
+}
+.thumbnail{
+    width:100%;
+    margin-bottom: 20px;
+}
+.description > p{
+    font-size: 0.8em;
+}
+.mainThumbnail{
+    text-align: center;
+}
+.mainThumbnail > img{
+    width:50%;
+}
+
+@media screen and (max-width: 480px){
+    .description{
+        margin-top:20px;
+    }
+    .description > p{
+        font-size: 1.0em;
+    }
+}

@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+.firstRow{
+    height:100px;
+}
+.row > div {
+    text-align: center;
+    height: 50px;
+    border: solid white;
+    border-radius: 100px;
+}
+.row > div:hover{
+    cursor: pointer;
+    transition: 0.5s;
+    background-color: white;
+    color:black;
+}
+.row > div:hover a{
+    transition: 0.5s;
+    color: black;
+}
+.row > div > a{
+    text-decoration: none;
+    color: white;
+}
+.row > div > a > h1{
+    line-height: 40px;
+    font-size: 1.2em;
+}
+@media screen and (max-width: 480px){
+    .firstRow{
+        height:80px;
+    }
+    .row > div > a > h1{
+        font-size: 1em;
+    }
+}

@@ -1,0 +1,32 @@
+.row{
+    margin-bottom: 100px;
+}
+.thumbnail{
+    width:100%;
+}
+.sentoMark{
+    text-align: center;
+}
+.sentoMark > img{
+    width: 80%;
+}
+.description > p{
+    font-size: 0.8em;
+}
+.badge > img{
+    width:40%;
+}
+@media screen and (max-width: 480px){
+    .description{
+        margin-top:20px;
+    }
+    .description > p{
+        font-size: 1.0em;
+    }
+    .sentoMark{
+        text-align: center;
+    }
+    .sentoMark > img{
+        width: 80%;
+    }
+}

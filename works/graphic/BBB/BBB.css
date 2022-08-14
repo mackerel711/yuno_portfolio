@@ -1,0 +1,27 @@
+.thumbnail{
+    width:100%;
+}
+.description > p{
+    font-size: 0.8em;
+}
+.secondThumbnail{
+    margin-top: 30px;
+}
+.miniThumbnail{
+    margin-top: -150px;
+    margin-bottom: 100px;
+}
+.miniThumbnail > img{
+    width: 30%;
+}
+@media screen and (max-width: 480px){
+    .description{
+        margin-top:20px;
+    }
+    .description > p{
+        font-size: 1.0em;
+    }
+    .miniThumbnail > img{
+        display: none;
+    }
+}

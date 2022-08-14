@@ -1,0 +1,21 @@
+.thumbnail{
+    width:100%;
+}
+.description > p{
+    font-size: 0.8em;
+}
+.flowers > div >img{
+    width:99%;
+}
+
+@media screen and (max-width: 480px){
+    .description{
+        margin-top:20px;
+    }
+    .description > p{
+        font-size: 1.0em;
+    }
+    .flowers > div >img{
+        width: 100%;
+    }
+}

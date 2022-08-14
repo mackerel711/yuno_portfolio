@@ -1,0 +1,59 @@
+/* =============== Common Setting =============== */
+body{
+    margin-top: 15px;
+    background-color: black;
+    color:white;
+}
+
+#logo{
+    margin-top:10px;
+    width:100%;
+    margin: 0 auto;
+    text-align: center;
+}
+#logo > a > img{
+    width:20%;
+}
+.container{
+    margin-top:80px;
+}
+
+/* =============== Navigation =============== */
+#bar{
+    position: absolute;
+    top:20px;
+    right:20px;
+    cursor: pointer;
+}
+
+#navigation{
+    display: none;
+    position: absolute;
+    top:80px;
+    right:30px;
+    
+}
+
+#navigation > nav > ul > li{
+    list-style: none;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    color: white;
+}
+#navigation > nav > ul > li > a{
+    text-decoration: none;
+    color:white;
+}
+
+/* =============== レスポンシブ =============== */
+@media screen and (max-width: 480px){
+    .container{
+        margin-top:30px;
+    }
+    #logo{
+        margin-top: 10px;
+    }
+    #logo > a > img{
+        width:60%;
+    }
+}

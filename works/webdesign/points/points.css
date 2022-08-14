@@ -1,0 +1,23 @@
+.row{
+    margin-bottom: 100px;
+}
+.icon{
+    text-align: center;
+}
+.icon > img{
+    width:50%;
+}
+.thumbnail{
+    width:100%;
+}
+.description > p{
+    font-size: 0.8em;
+}
+@media screen and (max-width: 480px){
+    .description{
+        margin-top:20px;
+    }
+    .description > p{
+        font-size: 1.0em;
+    }
+}

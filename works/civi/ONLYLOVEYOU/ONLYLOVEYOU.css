@@ -1,0 +1,45 @@
+.mainThumbnail{
+    text-align: center;
+}
+.mainThumbnail > img{
+    width:80%;
+}
+.description > p{
+    font-size: 0.8em;
+}
+.symbolAndLogo{
+    margin-top:100px;
+}
+.symbolAndLogo > div{
+    text-align: center;
+}
+.symbolAndLogo > div > img{
+    width: 100%;
+}
+.lineup{
+    margin-top:100px;
+}
+.lineup > div{
+    text-align: center;
+}
+.lineup > div > img{
+    width:80%;
+}
+.pattern{
+    margin-top: 100px;
+}
+.pattern > div{
+    text-align: center;
+}
+.pattern > div > img{
+    margin-top: -50px;
+    width: 80%;
+}
+@media screen and (max-width: 480px){
+    .description{
+        margin-top:20px;
+    }
+    .description > p{
+        font-size: 1.0em;
+    }
+}

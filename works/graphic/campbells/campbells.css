@@ -1,0 +1,32 @@
+.thumbnail{
+    text-align: center;
+}
+.thumbnail > img{
+    width:40%;
+}
+.description > p{
+    font-size: 0.8em;
+}
+.secondThumbnail{
+    margin-top: 30px;
+}
+.miniThumbnail{
+    text-align: center;
+} 
+.miniThumbnail > img{
+    width: 95%;
+}
+.last{
+    margin-bottom: 50px;
+}
+@media screen and (max-width: 480px){
+    .description{
+        margin-top:20px;
+    }
+    .description > p{
+        font-size: 1.0em;
+    }
+    .miniThumbnail > img{
+        margin-bottom: 20px;
+    }
+}
