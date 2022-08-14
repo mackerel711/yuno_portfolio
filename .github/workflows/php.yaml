@@ -4,4 +4,4 @@ jobs:
   exec-php-file:
     runs-on: ubuntu-latest
     steps:
-      - run: php.sh
+      - run: sh ./php.sh
