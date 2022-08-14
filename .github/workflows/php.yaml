@@ -1,7 +1,7 @@
 name: exec-php-file
 on: [push]
 jobs:
-  check-bats-version:
+  exec-php-file:
     runs-on: ubuntu-latest
     steps:
       - run: ./php.sh
