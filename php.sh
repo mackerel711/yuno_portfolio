@@ -80,3 +80,4 @@ do
 done
 
 
+rm -rf $copied_home_dir
