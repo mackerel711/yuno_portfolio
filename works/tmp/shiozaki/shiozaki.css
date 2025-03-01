@@ -1,0 +1,30 @@
+.icon{
+    width: 100%;
+}
+.shioanco-card {
+    width: 100%; 
+}
+.shioanco-container-row {
+    margin-top: 50px;
+    text-align: center;
+}
+.shioanco-smile {
+    width: 50%;
+}
+.shioanco-long {
+    width: 100%; 
+}
+.description{
+    margin-bottom: 50px;
+}
+.description > p{
+    font-size: 0.8em;
+}
+@media screen and (max-width: 480px){
+    .description{
+        margin-top:20px;
+    }
+    .description > p{
+        font-size: 1.0em;
+    }
+}
