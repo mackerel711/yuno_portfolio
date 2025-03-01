@@ -1,0 +1,41 @@
+.icon{
+    width: 80%;
+}
+
+.assemm-card-container-row {
+    display: flex;
+    align-items: center; /* 縦方向の位置を揃える */
+}
+
+.assemm-card-container {
+    display: flex;
+    justify-content: center; /* 画像を中央に配置 */
+    align-items: center; /* 画像の高さを揃える */
+}
+
+.assemm-card {
+    height: 100%; /* 親要素の高さに合わせる */
+    max-height: 700px; /* 必要に応じて調整 */
+    width: auto; /* アスペクト比を維持 */
+    object-fit: contain; /* 画像が収まるように調整 */
+}
+.assemm-obi-container {
+    text-align: center;
+}
+.assemm-obi {
+    width: 80%;
+}
+.description{
+    margin-bottom: 50px;
+}
+.description > p{
+    font-size: 0.8em;
+}
+@media screen and (max-width: 480px){
+    .description{
+        margin-top:20px;
+    }
+    .description > p{
+        font-size: 1.0em;
+    }
+}
