@@ -1,6 +1,6 @@
 <?php require('../../common/php/works-header.php'); ?>
 
-<link rel="stylesheet" href="./shiozaki.css">
+<link rel="stylesheet" href="./shiozakifoods.css">
 
 <div class="container">
     <div class="row">
