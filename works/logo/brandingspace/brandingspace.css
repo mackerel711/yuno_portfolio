@@ -1,6 +1,9 @@
 .thumbnail{
     width:100%;
 }
+.description{
+    margin-bottom: 50px;
+}
 .description > p{
     font-size: 0.8em;
 }

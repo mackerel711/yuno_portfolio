@@ -1,6 +1,7 @@
 <?php require('../../common/php/works-header.php'); ?>
 
 <link rel="stylesheet" href="./tina.css">
+<script src="./slider.js"></script>
 
 <div class="container">
     <div class="row">
@@ -51,11 +52,16 @@
                     <img class="thumbnail" src="./images/9.jpg">
                 </div>
             </div>
-            <div class="row">
+            <div id="slider" class="row slider">
                 <div class="col-md-12 col-12">
-                    <img class="thumbnail" src="./images/10.jpg">
+                    <img src="./images/10.jpg">
+                    <img src="./images/11.jpg">
+                    <img src="./images/12.jpg">
                 </div>
             </div>
+        
+
+
         </div>
     </div>
 </div>

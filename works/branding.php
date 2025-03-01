@@ -4,6 +4,7 @@
 <body>
 <div class="container-fluid">
     <div class="row">
+        <a href="./branding/fresh/fresh.php"><div class="col-md-12"><h1>Fresh</h1></div></a>
         <a href="./branding/Kenkougyunyu/Kenkougyunyu.php"><div class="col-md-12"><h1>健康牛乳</h1></div></a>
         <a href="./branding/Rikyu/Rikyu.php"><div class="col-md-12"><h1>利休</h1></div></a>
         <a href="./branding/508/508.php"><div class="col-md-12"><h1>508美容室</h1></div></a>

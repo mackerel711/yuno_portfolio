@@ -28,18 +28,18 @@
 <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 
 <!-- =============== Stylesheets =============== -->
-<link rel="stylesheet" href="../common/css/common.css">
+<link rel="stylesheet" href="../../common/css/common.css">
 
 <!-- =============== Favicon =============== -->
-<link rel="icon" href="../images/favicon.ico">
+<link rel="icon" href="../../images/favicon.ico">
 <link rel="apple-touch-icon" sizes="180x180" href="../../images/favicon.png">
 
 <!-- =============== Scripts =============== -->
-<script src="../common/scripts/navigation.js"></script>
+<script src="../../common/scripts/navigation.js"></script>
 
 </head>
 <body>
-<div id="logo"><a href="/"><img src="../images/logo.png"></a></div>
+<div id="logo"><a href="/"><img src="../../images/logo.png"></a></div>
 
 <!-- =============== Humberger =============== -->
 <!--
