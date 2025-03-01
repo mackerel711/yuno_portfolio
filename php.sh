@@ -80,4 +80,4 @@ do
 done
 
 
-rm -rf $copied_home_dir
+#rm -rf $copied_home_dir
