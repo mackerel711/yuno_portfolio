@@ -9,7 +9,6 @@
                 <div class="col-md-6 col-12 description">
                     <h1>Shiozaki foods</h1>
                     <p>　</p>
-                    <p>Saiko Hayashi</p>
                     <p>I designed a business card for a long-established bean paste manufacturing company, Shiozaki foods.
                     We wanted to convey the goodness of Japanese sweets to young people, so I created a catchy design.
                     </p>
