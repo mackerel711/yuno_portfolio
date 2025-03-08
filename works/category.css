@@ -29,6 +29,19 @@ body{
 
 }
 
+/* 各ページメニューのnewアイコン */
+.newly-post > img {
+    height: 100%;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.newly-post > h1 {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
 @media screen and (max-width: 480px){
     .row > a > div{
         height: 60px;

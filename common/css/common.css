@@ -46,6 +46,21 @@ body{
     color:white;
 }
 
+.newly-post-index > a {
+    position: relative;
+    display: inline-block;
+}
+
+.newly-post-index > a > span {
+    position: absolute;
+    top: -40px;
+    right: -80px;
+}
+
+.newly-post-index > a > span > img {
+    width: 80px;
+}
+
 /* =============== レスポンシブ =============== */
 @media screen and (max-width: 480px){
     .container{
@@ -56,5 +71,19 @@ body{
     }
     #logo > a > img{
         width:60%;
+    }
+    .newly-post-index > a {
+        position: relative;
+        display: inline-block;
+    }
+    
+    .newly-post-index > a > span {
+        position: absolute;
+        top: -40px;
+        right: -60px;
+    }
+    
+    .newly-post-index > a > span > img {
+        width: 80px;
     }
 }
