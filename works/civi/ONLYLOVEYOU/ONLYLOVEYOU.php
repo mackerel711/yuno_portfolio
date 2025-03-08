@@ -20,14 +20,6 @@
                         大切な人への贈り物を想定した衣服、生活雑貨を取り扱う「ONLY LOVE YOU」は年齢、性別を問わず手にとっていただける仮想カジュアルブランドです。
 
                     </p>
-                    <p>　</p>
-                    <p>
-                        our font<br>
-                        平成丸ゴシック W4/W8<br>
-                        ヒラギノ丸ゴPro W4<br>
-                        Arial Rounded MT Bold<br>
-                        Shree Devanagari 714
-                    </p>
                 </div>
                 <div class="col-md-6 col-12 mainThumbnail">
                     <img src="./images/oly_1.png">

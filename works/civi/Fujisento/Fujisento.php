@@ -25,14 +25,6 @@
                         「藤井銭湯」は仮想スーパー銭湯チェーンです。全国の主に駅、オフィス周辺に展開しています。「心地良いお湯」「無料アメニティー」「美味しい食事」の３つが特徴で、ゆっくりお風呂に入り、しっかりバランスの整ったご飯を食べるという忙しい日本人に足りてない癒しをトートルサポート。お湯と食材の２つの素材を楽しんでいただく。<br>
                         お客様にすぐに店をイメージしていただけるように地図記号の温泉マークをベースに制作。藤井銭湯はお風呂だけではなく、栄養バランスの取れた食事も提供しているため、箸を描いている。
                     </p>
-                    <p>　</p>
-                    <p>
-                        our font<br>
-                        Osaka Regular
-                        游教科書体 Medium/Bold
-                        Futura Medium/Medium Italic/Bold
-                        Adobe Casion Pro Regular
-                    </p>
                 </div>
                 <div class="col-md-6 col-12 sentoMark">
                     <img class="bigIcon" src="./images/sento_1.png">
