@@ -16,6 +16,10 @@
                         プロダクトブランドassemmのショップカードと、同封するデザインカードの制作を担当。
                         日常生活に溶け込むプロダクトに馴染むデザインをイメージ。
                     </p>
+                    <p>
+                        Online shop: <a href="https://www.instagram.com/assemm_iii/">https://www.instagram.com/assemm_iii/</a>
+
+                    </p>
                 </div>
                 <div class="col-md-6 col-12 icon-container">
                     <img class="icon" src="./images/assemm_icon.png">

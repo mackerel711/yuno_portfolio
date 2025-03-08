@@ -16,6 +16,9 @@
                         ヘアスタイリストとして活躍する林彩虹の名刺をデザイン。雑誌から広告まで幅広くフリーランスとして活躍するため、あらゆる現場で覚えていただけるよう、ウーパールーパーのイラストで林の雰囲気を表現。
                         「彩虹（さいこ）」の名前からウーパールーパーの配置は3×5＝15で315（さいこ）を意識。
                     </p>
+                    <p>
+                    Instagram: <a href="https://www.instagram.com/saikoohayashi">@handwork_tokyo</a>
+                    </p>
                 </div>
                 <div class="col-md-6 col-12">
                     <img class="icon" src="./images/saikohayashi_icon.png">

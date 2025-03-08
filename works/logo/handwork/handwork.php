@@ -16,6 +16,12 @@
                         2024年兜町 日証館にオープンした、ポップアップやギャラリーなどのイベントスペース「HANDWORK」のデザインを担当。
                         併設のネイルサロンでも使用できるような柔らかい印象を与えるマークを制作。
                     </p>
+                    <p>
+                        Instagram: <a href="https://www.instagram.com/handwork_tokyo/">@handwork_tokyo</a><br>
+                        Instagram: <a href="https://www.instagram.com/handwork_nail_tokyo/">@handwork_nail_tokyo</a><br>
+                        article: <a href="https://prtimes.jp/main/html/rd/p/000000107.000024148.html">PR TIMES</a>
+
+                    </p>
                 </div>
                 <div class="col-md-6 col-12">
                     <img class="icon" src="./images/handwork_jote_icon.png">
