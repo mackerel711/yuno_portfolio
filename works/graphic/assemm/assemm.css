@@ -1,5 +1,5 @@
-.icon{
-    width: 80%;
+.icon-container {
+    text-align: center;
 }
 
 .assemm-card-container-row {
@@ -23,7 +23,7 @@
     text-align: center;
 }
 .assemm-obi {
-    width: 80%;
+    width: 60%;
 }
 .description{
     margin-bottom: 50px;

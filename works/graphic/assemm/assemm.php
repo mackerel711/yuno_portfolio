@@ -17,16 +17,13 @@
                         日常生活に溶け込むプロダクトに馴染むデザインをイメージ。
                     </p>
                 </div>
-                <div class="col-md-6 col-12">
+                <div class="col-md-6 col-12 icon-container">
                     <img class="icon" src="./images/assemm_icon.png">
                 </div>
             </div>
             <div class="row assemm-card-container-row">
-                <div class="col-md-6 col-12 assemm-card-container">
-                    <img class="assemm-card" src="./images/assemm_card2.png">
-                </div>
-                <div class="col-md-6 col-12 assemm-card-container">
-                    <img class="assemm-card" src="./images/assemm_card1.png">
+                <div class="col-md-12 col-12 assemm-card-container">
+                    <img class="assemm-card" src="./images/assemm_card.png">
                 </div>
             </div>
             <div class="row">
