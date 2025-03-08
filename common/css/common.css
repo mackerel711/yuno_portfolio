@@ -61,8 +61,13 @@ body{
 
 .newly-post-index > a > span > img {
     width: 80px;
+    animation: blink 1s infinite;
 }
-
+@keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+}
 /* =============== レスポンシブ =============== */
 @media screen and (max-width: 480px){
     .container{
