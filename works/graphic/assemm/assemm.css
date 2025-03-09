@@ -22,6 +22,12 @@
 .assemm-obi {
     width: 60%;
 }
+.assemm-package-container {
+    text-align: center;
+}
+.assemm-package {
+    width: 100%;
+}
 .description{
     margin-bottom: 50px;
 }

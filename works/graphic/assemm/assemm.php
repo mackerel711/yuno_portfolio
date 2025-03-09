@@ -34,6 +34,9 @@
                 <div class="col-md-12 col-12 assemm-obi-container">
                     <img class="assemm-obi" src="./images/assemm_obi.png">
                 </div>
+                <div class="col-md-12 col-12 assemm-package-container">
+                    <img class="assemm-package" src="./images/assemm_package.png">
+                </div>
             </div>
             
         </div>
