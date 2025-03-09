@@ -1,3 +1,11 @@
+.icon-container {
+    text-align: center;
+}
+
+.icon{
+    width:80%;
+}
+
 .thumbnail{
     width:80%;
 }

@@ -20,8 +20,8 @@
                         ドリンクを飲む際に何気なく見ていた、カップ上からの様子が丸く、その中にキラキラとした四角い氷が浮かんでいる、図形の共存が面白いと思いデザインに起こす。
                     </p>
                 </div>
-                <div class="col-md-6 col-12">
-                    <img class="thumbnail" src="./images/be_open_thumb.png">
+                <div class="col-md-6 col-12 icon-container">
+                    <img class="icon" src="./images/be_open_thumb.png">
                 </div>
             </div>
             <p>　</p>
