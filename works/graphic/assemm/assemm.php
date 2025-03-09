@@ -17,7 +17,7 @@
                         日常生活に溶け込むプロダクトに馴染むデザインをイメージ。
                     </p>
                     <p>
-                        Online shop: <a href="https://www.instagram.com/assemm_iii/">https://www.instagram.com/assemm_iii/</a>
+                        Instagram: <a href="https://www.instagram.com/assemm_iii/">@assemm_iii</a>
 
                     </p>
                 </div>
