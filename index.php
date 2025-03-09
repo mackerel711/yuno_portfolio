@@ -3,7 +3,9 @@
 <link rel="stylesheet" href="./index.css">
 
 <body>
-<div class="container-fluid">
+<div class="container-fluid main-container">
+    <p id="smily-emoji">😀</p>
+    <a href="mailto:yuno@yunofficial.info"><img id="smily-emoji-says" src="./images/welcome_mail.png"></a>
     <div class="row firstRow"></div>
     <div class="row">
         <div class="col-md-2 col-4 offset-md-3 offset-1 mb-1 newly-post-index"><a href="./works/graphic.php"><h1>GRAPHIC</h1><span><img src="../images/new.png"></span></a></div>
@@ -22,5 +24,11 @@
     </div>
 </div>
 </body>
-
+<script>
+$(() => {
+    $('#smily-emoji').on('click', () => {
+        $('#smily-emoji-says').toggle('');
+    });
+});
+</script>
 </html>

@@ -1,6 +1,33 @@
 body{
     background-color: black;
 }
+.main-container {
+    height: 90vh;
+    position: relative;
+}
+#smily-emoji {
+    position: absolute;
+    bottom: 10px;
+    right: 20px;
+    font-size: 50px;
+    cursor: pointer;
+}
+@keyframes showSmilyEmojiSaysAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+#smily-emoji-says {
+    display: none;
+    position: absolute;
+    width: 30%;
+    bottom: 60px;
+    right: 80px;
+    animation: showSmilyEmojiSaysAnimation 0.5s forwards;
+}
 .firstRow{
     height:100px;
 }
@@ -34,5 +61,12 @@ body{
     }
     .row > div > a > h1{
         font-size: 1em;
+    }
+    #smily-emoji-says {
+        display: none;
+        position: absolute;
+        width: 80%;
+        bottom: 60px;
+        right: 80px;
     }
 }
