@@ -1,8 +1,13 @@
+.icon-container {
+    text-align: center;
+}
+
 .icon{
     width: 80%;
 }
 .saikohayashi {
     width: 100%; 
+    margin-bottom: 20px;
 }
 .saikohayashi-date-container-row {
     margin-top: 50px;

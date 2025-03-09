@@ -20,7 +20,7 @@
                     Instagram: <a href="https://www.instagram.com/saikoohayashi">@handwork_tokyo</a>
                     </p>
                 </div>
-                <div class="col-md-6 col-12">
+                <div class="col-md-6 col-12 icon-container">
                     <img class="icon" src="./images/saikohayashi_icon.png">
                 </div>
             </div>
