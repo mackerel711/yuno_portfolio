@@ -23,7 +23,7 @@
 
                     </p>
                 </div>
-                <div class="col-md-6 col-12">
+                <div class="col-md-6 col-12 icon-container">
                     <img class="icon" src="./images/handwork_jote_icon.png">
                 </div>
             </div>
