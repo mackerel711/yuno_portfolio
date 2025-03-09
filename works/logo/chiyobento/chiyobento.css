@@ -1,0 +1,27 @@
+.icon-container {
+    text-align: center;
+}
+.icon{
+    width: 80%;
+}
+.chiyosan {
+    width: 100%; 
+    margin-bottom: 20px;
+}
+.description{
+    margin-bottom: 50px;
+}
+.description > p{
+    font-size: 0.8em;
+}
+@media screen and (max-width: 480px){
+    .icon-container {
+        display: none;
+    }
+    .description{
+        margin-top:20px;
+    }
+    .description > p{
+        font-size: 1.0em;
+    }
+}
