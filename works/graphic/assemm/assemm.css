@@ -14,10 +14,7 @@
 }
 
 .assemm-card {
-    height: 100%; /* 親要素の高さに合わせる */
-    max-height: 700px; /* 必要に応じて調整 */
-    width: auto; /* アスペクト比を維持 */
-    object-fit: contain; /* 画像が収まるように調整 */
+    width: 100%;
 }
 .assemm-obi-container {
     text-align: center;
