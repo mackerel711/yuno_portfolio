@@ -17,7 +17,7 @@
                         「彩虹（さいこ）」の名前からウーパールーパーの配置は3×5＝15で315（さいこ）を意識。
                     </p>
                     <p>
-                    Instagram: <a href="https://www.instagram.com/saikoohayashi">@handwork_tokyo</a>
+                    Instagram: <a href="https://www.instagram.com/saikoohayashi">@saikoohayashi</a>
                     </p>
                 </div>
                 <div class="col-md-6 col-12 icon-container">
