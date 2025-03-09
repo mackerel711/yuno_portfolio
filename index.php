@@ -13,7 +13,7 @@
     </div>
     <div class="row">
         <div class="col-md-4 col-4 offset-md-2 offset-2 mb-1"><a href="./works/branding.php"><h1>BRANDING</h1></a></div>
-        <div class="col-md-4 col-4 newly-post-index"><a href="./works/logo.php"><h1>LOGO</h1><span><img src="../images/new.png"></span></div>
+        <div class="col-md-4 col-4 newly-post-index"><a href="./works/logo.php"><h1>LOGO</h1><span><img src="../images/new.png"></span></a></div>
     </div>
     <div class="row">
         <div class="col-md-2 col-3 offset-md-3 offset-1 mb-1"><a href="./works/civi.php"><h1>CI VI</h1></a></div>
